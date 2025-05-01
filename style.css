@@ -51,7 +51,7 @@ body {
   margin-top: 20px;
   padding: 12px 24px;
   background-color:#D0F4DE;
-  color: #1E2A38;
+  color:  #FDF6F0;
   font-family: sans-serif;
   font-size: 1.2em;
   border: none;
@@ -62,19 +62,20 @@ body {
 }
 
 .rsvp-button:hover {
-  background-color:none;
+  background-color:#FDF6F0;
 }
 
 /* Headings */
 h1, h2, h3 {
   font-family:  'Pacifico', cursive;
-  text-shadow: 1px 1px 4px rgba(239, 216, 197, 0.8);
+  text-shadow: 0 0 6px #A9D6E5, 0 0 8px #D0F4DE;
 }
 
 h1 {
   font-size: 4rem;
   margin-bottom: 0.5em;
-  color:#A9D6E5;
+  color:#FDF6F0;
+  text-shadow: 1px 1px 6px #A9D6E5;
 }
 
 h2, h3 {
