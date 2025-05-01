@@ -169,7 +169,7 @@ p {
     max-width: 140px;
     height: 100px;
   }
-
+}
 .site-footer {
   text-align: center;
   padding: 20px;
@@ -190,5 +190,4 @@ footer {
 .footer-logo {
   max-width: 90px;
   margin-bottom: 10px;
-}
 }
