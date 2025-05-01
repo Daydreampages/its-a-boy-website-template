@@ -20,10 +20,9 @@
 /* General Body */
 body {
   font-family: 'Quicksand', sans-serif;
-  background: url('assets/background.jpg') repeat;
+  background-color: #3C4F65; /* Softer navy */
   background-size: cover;
   background-attachment: fixed;
-  background-color: #3C4F65;
   color: #FDF6F0;
   text-align: center;
   margin: 0;
@@ -42,7 +41,7 @@ body {
   border-radius: 12px;
   text-align: center;
   padding: 30px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
 }
 
 /* RSVP Button */
@@ -50,20 +49,20 @@ body {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 24px;
-  background-color: #006D77;
+  background-color: #006D77; /* Deep Teal */
   color: #FFF5E1;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.2em;
   border: none;
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .rsvp-button:hover {
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  background-color: #004E57;
 }
 
 /* Headings */
@@ -88,12 +87,12 @@ h2, h3 {
 p {
   font-family: 'Quicksand', sans-serif;
   font-size: 1.1rem;
-  color:#FDF6F0; /*color for text*/
+  color: #FDF6F0;
   line-height: 1.6;
-  margin: 0 0 1em;
   text-align: center;
   text-shadow: 0 0 4px #A9D6E5;
 }
+
 
 /* Main Couple Photo */
 .photo {
