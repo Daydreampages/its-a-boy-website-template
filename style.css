@@ -20,10 +20,10 @@
 /* General Body */
 body {
   font-family: 'Quicksand', sans-serif;
-  background-color: #3C4F65; /* Softer navy */
+  background-color: #CDE8F6; 
   background-size: cover;
   background-attachment: fixed;
-  color: #FDF6F0;
+  color: #2F3E46;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -37,11 +37,11 @@ body {
 
 /* Main Content Container */
 .container {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color:  rgba(255, 255, 255, 0.65);
   border-radius: 12px;
   text-align: center;
   padding: 30px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
 }
 
 /* RSVP Button */
@@ -49,8 +49,8 @@ body {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 24px;
-  background-color: #006D77; /* Deep Teal */
-  color: #FFF5E1;
+  background-color:  #7DA9B8;
+  color: #FFFFFF;
   font-family: 'Poppins', sans-serif;
   font-size: 1.2em;
   border: none;
@@ -58,11 +58,11 @@ body {
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.3s ease;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .rsvp-button:hover {
-  background-color: #004E57;
+  background-color:#5D8E9C;
 }
 
 /* Headings */
@@ -87,10 +87,11 @@ h2, h3 {
 p {
   font-family: 'Quicksand', sans-serif;
   font-size: 1.1rem;
-  color: #FDF6F0;
+  color: #2F3E46;
   line-height: 1.6;
   text-align: center;
-  text-shadow: 0 0 4px #A9D6E5;
+  text-shadow: 0 0 2px rgba(255, 255, 255, 0.6);
+  margin: 0 0 1em;
 }
 
 
