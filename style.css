@@ -80,7 +80,7 @@ h1 {
 
 h2, h3 {
   font-size: 2.5rem;
-  color:#A9D6E5;
+  text-shadow: 0 0 6px #A9D6E5, 0 0 8px #D0F4DE;
 }
 
 /* Paragraphs */
