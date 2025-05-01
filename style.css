@@ -62,7 +62,7 @@ body {
 }
 
 .rsvp-button:hover {
-  background-color:#FDF6F0;
+  box-shadow: 0 0 10px #D0F4DE;
 }
 
 /* Headings */
@@ -75,7 +75,7 @@ h1 {
   font-size: 4rem;
   margin-bottom: 0.5em;
   color:#FDF6F0;
-  text-shadow: 1px 1px 6px #A9D6E5;
+  text-shadow: 0 0 4px #A9D6E5;
 }
 
 h2, h3 {
@@ -85,13 +85,13 @@ h2, h3 {
 
 /* Paragraphs */
 p {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1.1rem;
-  color: #2F3E46; /* Deep navy/slate for clarity */
+  color:#FDF6F0; /*color for text*/
   line-height: 1.6;
   margin: 0 0 1em;
   text-align: center;
-  text-shadow: 0.5px 0.5px 1px rgba(255, 245, 225, 0.5); /* soft ivory tint */
+  text-shadow: 0 0 4px #A9D6E5;
 }
 
 /* Main Couple Photo */
