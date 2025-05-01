@@ -67,20 +67,17 @@ body {
 
 /* Headings */
 h1, h2, h3 {
-  font-family:  'Pacifico', cursive;
-  text-shadow: 0 0 6px #A9D6E5, 0 0 8px #D0F4DE;
+  font-family: 'Great Vibes', cursive;
+  color: #37505C; /* Soft Navy */
+  text-shadow: 1px 1px 4px #A7C7DC;
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
+  color: #37505C; /* Soft navy text */
+  text-shadow: 1px 1px 4px #A7C7DC;
   margin-bottom: 0.5em;
-  color:#FDF6F0;
-  text-shadow: 0 0 4px #A9D6E5;
-}
-
-h2, h3 {
-  font-size: 2.5rem;
-  text-shadow: 0 0 6px #A9D6E5, 0 0 8px #D0F4DE;
+  font-family: 'Great Vibes', cursive;
 }
 
 /* Paragraphs */
