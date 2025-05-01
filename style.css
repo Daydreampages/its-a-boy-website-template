@@ -170,7 +170,7 @@ p {
     height: 100px;
   }
 }
-footer.site-footer {
+.site-footer {
   background-color: transparent; 
   color: #2F3E46;
   text-align: center;
