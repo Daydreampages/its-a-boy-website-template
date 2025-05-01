@@ -20,7 +20,7 @@
 /* General Body */
 body {
   font-family: 'Quicksand', sans-serif;
-  
+  background: url('assets/background') repeat;
   background-color: #CDE8F6; 
   background-size: cover;
   background-attachment: fixed;
