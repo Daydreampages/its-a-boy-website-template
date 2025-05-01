@@ -52,6 +52,7 @@ body {
   padding: 12px 24px;
   background-color: #006D77;
   color: #FFF5E1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
   font-family: sans-serif;
   font-size: 1.2em;
   border: none;
